@@ -19,7 +19,7 @@ ProxyPin 的 MCP 服务器，作用通俗点说就是 **抓包软件有啥功能
 - Python 依赖: `fastmcp`, `requests`
 
 安装
-1. 下载内置mcp的proxypin：release的zip是win版的proxypin，其他平台的懒得编译了因为我不方便测试）（有需要的去我的proxypin仓库拉取源代码然后编译）
+1. 下载内置mcp的proxypin：目前全平台都编译了，本仓库放了一个win的，其他平台 有需要的去我的proxypin仓库下载即可
 2. 下载mcp的py文件：release中的py文件，下载了随便找个地方放；
 
 
